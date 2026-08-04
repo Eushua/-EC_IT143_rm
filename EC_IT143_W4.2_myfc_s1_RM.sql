@@ -1,0 +1,1 @@
+-- Q: What is the month-to-date (MTD) salary for each player, along with their position name?

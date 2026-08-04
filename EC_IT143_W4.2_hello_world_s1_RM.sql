@@ -1,0 +1,1 @@
+-- Q: How can I generate a 'Hello World' message paired with the current system date and time?
